@@ -1,2 +1,0 @@
-# Schack - Programmering
- Spel, schakc
